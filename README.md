@@ -4,11 +4,9 @@
 Email Me 👉 ✉️ **mdsonu57470@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Expense Tracker
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🌱 **I’m currently learning:** GO Lang
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** mdsonu57470@gmail.com
 - 😄 **Pronouns:** Sonu Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - ## 🏆 GitHub Trophies
